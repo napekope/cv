@@ -1,0 +1,46 @@
+body {
+  background-color: #d6e0f0;
+}
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #0f4c75;
+}
+h3 {
+  color: #393b44;
+}
+
+
+.redh3 {
+  color:red;
+}
+.greenh3 {
+  color: green;
+}
+
+#dotted {
+  border-top-style: dotted;
+}
+.georgia {
+  font-family: Georgia, serif;
+}
+
+
+
+
+
+
+#mainheading {
+  color: white;
+}
+
+
+img:hover {
+  background-color: white;
+}
